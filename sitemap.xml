@@ -1,0 +1,38 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/grilled-chicken-bowl-with-sweet-potatoes-and-vegetables/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/turkey-wrap-with-spinach-and-avocado/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/salmon-with-quinoa-and-asparagus/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sample-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/raulhuja/
+        </loc>
+    </url>
+</urlset>
