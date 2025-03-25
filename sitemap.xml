@@ -17,6 +17,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/post-game-meal-high-protein-chicken-pasta/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -28,6 +33,11 @@
     <url>
         <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/ishans269/
         </loc>
     </url>
     <url>
